@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884483278001",
+    "project_id": "braga-clube-9e787",
+    "storage_bucket": "braga-clube-9e787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884483278001:android:c5d0798638b4e3faf88e90",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_pdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884483278001-djkrk83a3tu13ggqddg769lum8d41b7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADL9bxmuQuZWlbc5dGPmygUPoxfdRIehY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884483278001-djkrk83a3tu13ggqddg769lum8d41b7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
